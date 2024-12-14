@@ -1,10 +1,10 @@
 👋 Hi, I’m @user07om
-👀 I’m interested in Linux administration, competitive programming in Python, and data science.
-🌱 I’m currently learning Python for competitive programming, and data science (machine learning).
-💞️ I’m looking to collaborate on open-source projects related performance optimization for Linux systems and Python Various Projects.
-📫 How to reach me via GitHub or email at omkarbulbule7@gmail.com
+👀 I’m passionate about data science, web development, and competitive programming, especially using Python.
+🧠 I enjoy working on AI/ML projects, building web apps with Django, and solving algorithmic challenges.
+💡  Always excited to collaborate on open-source projects that involve machine learning, web development, or coding competitions.
+📫 Feel free to reach out on GitHub or email me at omkarbulbule7@gmail.com!
 😄 Pronouns: He/Him
-⚡ Fun fact: I love applying data science techniques to various problems and automating tedious tasks with Python!
+⚡ Fun fact: I love turning complex problems into simple, automated solutions with Python!
 
 <!---
 user07om/user07om is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
