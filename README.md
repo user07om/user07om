@@ -1,10 +1,8 @@
-👋 Hi, I’m @user07om
-👀 I’m passionate about data science, web development, and competitive programming, especially using Python.
-🧠 I enjoy working on AI/ML projects, building web apps with Django, and solving algorithmic challenges.
-💡  Always excited to collaborate on open-source projects that involve machine learning, web development, or coding competitions.
-📫 Feel free to reach out on GitHub or email me at omkarbulbule7@gmail.com!
-😄 Pronouns: He/Him
-⚡ Fun fact: I love turning complex problems into simple, automated solutions with Python!
+👋 Hi, I’m @user07om 
+A Backend Engineer passionate about designing robust, high-performance systems.
+🔧 Skilled in Python development, building scalable APIs, and creating modern MERN stack applications.
+🌐 Comfortable with cloud deployments and automating workflows when needed.
+📫 Let’s connect: omkarbulbule7@gmail.com
 
 <!---
 user07om/user07om is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
